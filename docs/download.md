@@ -49,6 +49,7 @@ your downloads.
 - [NMac](https://nmac.to/category/games) - macOS games & apps
 - [AppKed](https://www.macbed.com/games) - macOS games & apps
 - [Cmacked](https://cmacked.com) - macOS games & apps
+- [Appstorrent](https://appstorrent.ru) - macOS games & apps
 - [ARMGDDN Games](https://t.me/ARMGDDNGames) [Browser](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - PCVR games
 - [My Abandonware](https://www.myabandonware.com) - Old games
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - Old games / Switch to
